@@ -28,7 +28,7 @@
 <p>Этап №2.:<p> 
 <ol>
   <li> Создание функционального чек-листа-https://docs.google.com/spreadsheets/d/13-z4_04hsMq5DP12sB-eX3E_5vg1c-LCYb2RHXMm3hE/edit?usp=sharing</li>
-  <li>Составление тест-кейсов для smoke-тестирования</li>
+  <li>Составление тест-кейсов для smoke-тестирования-https://docs.google.com/document/d/1ikMVDjcYGaI-5CP0Tk2b5P33tBwd19A3ASf0NXsUytg/edit?usp=sharing</li>
   <li>Тестирование по пунктам</li>
 </ol>
 <p>Этап №3.:<p> 
