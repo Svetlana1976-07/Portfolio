@@ -20,7 +20,7 @@
 <p>Проверка нового функционала — личные события в календаре преподователей на вкладке "Расписание" в портале учителя на сайте "Skyeng":<p>
 <p>Этап №1.:<p> 
 <ol>
-  <li>Создание приёмочных тест-кейсов-</li>[Ссылка](https://docs.google.com/document/d/1zLOdMdhBJCmPIrnqYFdBwSxsiC2GpJS4mM3fnZfWJlc/edit?usp=sharing)
+  <li>Создание приёмочных тест-кейсов-https://docs.google.com/document/d/1zLOdMdhBJCmPIrnqYFdBwSxsiC2GpJS4mM3fnZfWJlc/edit?usp=sharing.</li>
   <li>Тестирование требований</li>
   <li>Составление декомпозиции продукта-https://miro.com/app/board/uXjVM-KMK50=/</li>
   <li>Тест-план проекта.</li>
