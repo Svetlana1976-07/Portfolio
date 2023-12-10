@@ -64,6 +64,6 @@
 </ol>
 
 # 📫Контактная информация
-##### Email:<a href="vrshilova-s@mail.ru" target="_blank">Здесь</a>
-##### Телеграмм:https://t.me/svetlanavrsh
-##### Ссылка на моё резюме:hh.ru:https://kazan.hh.ru/resume/dd540601ff0ca3de9d0039ed1f4c436232306b
+##### <p><a href="vrshilova-s@mail.ru" target="_blank">Email</a></p>
+##### <p><a href="https://t.me/svetlanavrsh">Telegram</a></p>
+##### Ссылка на моё резюме:<p><a href="https://kazan.hh.ru/resume/dd540601ff0ca3de9d0039ed1f4c436232306b">hh.ru</a></p>
