@@ -64,6 +64,6 @@
 </ol>
 
 # 📫Контактная информация
-##### Email:vrshilova-s@mail.ru
+##### Email:vrshilova-s@mail.ru <a href="Email:vrshilova-s@mail.ru" target="_blank">Посетите W3Schools!</a>
 ##### Телеграмм:https://t.me/svetlanavrsh
 ##### Ссылка на моё резюме:hh.ru:https://kazan.hh.ru/resume/dd540601ff0ca3de9d0039ed1f4c436232306b
